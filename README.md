@@ -39,6 +39,6 @@ The raw dataset used in this project is sourced from NASA (PSCompPars table) and
 **Presentation:**
 The final presentation for this project is available in presentation/Programming for Data Science.pptx
 
-***.git: ***
+***.git:***
 This repo includes full Git history; the .git directory may be hidden by default on some systems but is included in the submission.
 
